@@ -7,8 +7,6 @@ def reverse_each_word(string)
     array2.push(word.reverse)
   end
   array2.join(" ")
-  
-  
-  
-  
 end
+
+def reverse
