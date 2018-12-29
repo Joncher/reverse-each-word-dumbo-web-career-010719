@@ -6,7 +6,7 @@ def reverse_each_word(string)
   array.each do |word|
     array2.push(word.reverse)
   end
-  array2.
+  array2.join()
   
   
   
